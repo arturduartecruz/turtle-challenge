@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TurtleChallengeApp": {
+      "commandName": "Project",
+      "commandLineArgs": "Settings Moves"
+    }
+  }
+}
